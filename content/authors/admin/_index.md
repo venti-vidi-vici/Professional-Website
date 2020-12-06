@@ -6,7 +6,7 @@ title: Jonas Ventimiglia
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Data Analyst
 
 # Organizations/Affiliations
 organizations:
@@ -17,9 +17,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social Network Analysis
+- Missing Data
+- Child Development
 
 education:
   courses:
