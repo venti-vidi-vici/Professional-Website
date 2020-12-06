@@ -37,7 +37,7 @@ education:
 social:
  - icon: envelope
   icon_pack: fas
-  link: 'mailto:jcv49@drexel.edu'.
+  link: 'mailto:jcv49@drexel.edu'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
