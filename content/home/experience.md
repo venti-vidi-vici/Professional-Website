@@ -40,5 +40,14 @@ date_format = "Jan 2006"
   date_start = "2019-05-01"
   date_end = "2020-05-31"
   description = """Blank"""
+ 
+ [[experience]]
+  title = "Data Researcher"
+  company = "Leavitt Partners Insight"
+  company_url = ""
+  location = "California"
+  date_start = "2019-05-01"
+  date_end = "2020-05-31"
+  description = """Blank"""
 
 +++
