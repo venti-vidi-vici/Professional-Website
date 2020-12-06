@@ -24,11 +24,17 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Quantitative Methods"
-  description = ""  
+  description = "" 
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Data Management"
+  description = "" 
   
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "python"
   description = ""
 
